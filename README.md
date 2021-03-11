@@ -1,7 +1,7 @@
 # Quickstart
 
 This exercise takes a file from kafka-connect `standalone` producer and sinks to kafka-connect `distributed`.
-There will be a file called
+There will be a file called `standalone/connect-input-file/my-source-file.txt` note: you must leave an extra line at the bottom of the file for this to work.
 
 -  Build the docker images as the connect image is required to build to include connector standalone configurations.
 
